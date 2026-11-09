@@ -4,7 +4,9 @@ A small flappy-style browser game written in plain HTML, CSS and JavaScript (no 
 
 ## Play
 
-Open `index.html` in a browser — or, once GitHub Pages is enabled, play it online.
+**▶ Play online: https://fabbeboss.github.io/flappy-game/**
+
+Or open `index.html` locally in a browser.
 
 **Controls:** Space / ↑ / click / tap to flap · P to pause
 
